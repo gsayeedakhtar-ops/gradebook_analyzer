@@ -1,0 +1,10 @@
+# Ignore text notes
+notes.txt
+
+# Ignore test scripts
+test_script.py
+practice_notes.py
+
+# Ignore temporary files
+*.pyc
+__pycache__/
