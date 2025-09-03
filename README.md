@@ -61,6 +61,22 @@ Run:
 
 python note_app2.py
 
+---
+
+## 3. BankAccount V2
+
+An OOP-based banking simulator showcasing Inheritance & Polymorphism.
+
+**Features:**
+- Base class `BankAccount` with deposit/withdraw.
+- `SavingsAccount`: inherits from base and limits withdrawals, applies interest.
+- `CreditAccount`: allows overdraft up to a limit.
+
+Run it with:
+```bash
+python bank_account_v2.py
+
+
 Project Structure
 gradebook_analyzer/
 ├── gradebook_analyzer.py
