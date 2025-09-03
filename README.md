@@ -1,72 +1,46 @@
-📘 Python Projects Repository
-
-This repository contains beginner-friendly Python projects to practice functions, loops, conditionals, file handling, and data structures.
-Currently, it includes:
-
-🎓 Gradebook Analyzer → Analyze students' scores.
-
-📝 Mini Note App v2 → A simple note-taking app with file storage.
-
-📂 Project Structure
-gradebook_analyzer/
-│
-├── gradebook_analyzer.py   # Gradebook project
-├── note_app2.py            # Note Taking App v2
-├── README.md               # Project Documentation
-└── notes.txt               # (Ignored via .gitignore)
-
-🎓 Gradebook Analyzer
-
-A program to analyze student scores and generate a report.
-
-🚀 Features
-
-✅ Calculates Total and Average marks
-
-🏆 Identifies the Topper
-
-📊 Lists Above Average and Below Average performers
-
-❌ Highlights Failures (scores < 40)
-
-🔍 Displays Highest and Lowest scores
-
-📝 Mini Note App v2
-
-A simple terminal-based Note Taking Application written in Python.
-This project allows users to add, view, delete, and search notes, all stored in a text file.
-
-🚀 Features
-
-✍️ Add Notes → Write and save multiple notes
-
-📖 View Notes → Display all saved notes with numbering
-
-❌ Delete Notes → Clear all notes in one command
-
-🔍 Search Notes → Find notes by keyword
-
-▶️ How to Run
-
-Open terminal inside the project folder
-
-Run the script:
-
-python note_app2.py
+\# 📘 Python Projects Portfolio  
 
 
-Choose options from the menu:
 
-1 → Add Note
+Welcome to my collection of Python projects, built while learning step by step.  
 
-2 → View Notes
+Each project focuses on \*\*core concepts of Python\*\* and grows into practical utilities.  
 
-3 → Exit
 
-4 → Delete All Notes
 
-5 → Search Notes
+---
 
-✨ Author
 
-Sayeed Akhtar
+
+\## 🚀 Projects  
+
+
+
+\### 🎓 1. Gradebook Analyzer  
+
+A script to analyze student scores and provide insights.  
+
+
+
+\*\*Features:\*\*  
+
+\- Calculates \*\*Total\*\* and \*\*Average\*\* marks  
+
+\- Identifies the \*\*Topper\*\* (name + score)  
+
+\- Lists \*\*Above Average\*\* and \*\*Below Average\*\* performers  
+
+\- Assigns \*\*Letter Grades\*\* (A, B, C, Fail)  
+
+\- Highlights \*\*Failures\*\* (< 40 marks)  
+
+
+
+Run with:  
+
+```bash
+
+python gradebook\_analyzer.py
+
+
+
