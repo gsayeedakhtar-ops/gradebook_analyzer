@@ -43,4 +43,34 @@ Run with:
 python gradebook\_analyzer.py
 
 
+2. Mini Note App v2
+
+A terminal-based Note App with file storage.
+
+Features
+
+Add Notes
+
+View Notes
+
+Delete All Notes
+
+Search Notes
+
+Run:
+
+python note_app2.py
+
+Project Structure
+gradebook_analyzer/
+├── gradebook_analyzer.py
+├── note_app2.py
+├── README.md
+└── .gitignore
+
+Author
+
+Sayeed Akhtar — Learning Python step by step.
+
+
 
