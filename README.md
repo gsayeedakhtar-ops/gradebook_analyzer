@@ -1,80 +1,63 @@
-🚀 Projects
-1. Gradebook Analyzer 🎓
+# 📘 Python Projects Portfolio  
 
-A program to analyze students’ scores.
+A collection of beginner-to-intermediate Python projects demonstrating core programming concepts, problem-solving, and practical applications.  
 
-Calculates Total, Average, Highest, Lowest
+---
 
-Finds the Topper
+## 🚀 Projects  
 
-Lists Above/Below Average students
+### 1. Gradebook Analyzer  
+- Calculates **total, average, highest, and lowest scores**  
+- Identifies the **topper**  
+- Lists **above average** and **below average** students  
+- Highlights **failures** (score < 40)  
 
-Highlights Failures (<40)
+📂 File: `gradebook_analyzer.py`  
 
-Run:
+---
 
-python gradebook_analyzer.py
+### 2. Note-Taking App  
+- Add, view, delete, and search notes  
+- Stores notes in a text file (`notes.txt`)  
+- Simple menu-driven terminal interface  
 
-2. Mini Note App 📝
+📂 File: `note_app2.py`  
 
-A file-based note-taking CLI app.
+---
 
-Add, View, Delete, Search notes
+### 3. Rule-Based Chatbot  
+- Responds to basic greetings and queries  
+- Can solve math expressions entered by the user  
+- Includes motivational responses  
 
-Saves notes in notes.txt
+📂 File: `rule-based_chatbox.py`  
 
-Simple menu-driven interface
+---
 
-Run:
+### 4. Bank Account Manager  
+- Create multiple accounts  
+- Deposit, withdraw, and add interest  
+- Demonstrates **OOP concepts** (encapsulation, abstraction, inheritance, polymorphism)  
 
-python note_app2.py
+📂 File: `bank_account_v2.py`  
 
-3. BankAccount V2 🏦
+---
 
-An OOP-based banking simulator demonstrating all 4 pillars of OOP.
+### 5. Expense Tracker  
+- Add income & expenses with categories  
+- Shows **summary, transaction history, and category totals**  
+- Useful for daily expense management  
 
-Encapsulation: Balance is managed via methods
+📂 File: `expense_tracker_v2.py`  
 
-Abstraction: Simple deposit/withdraw/interest interface
+---
 
-Inheritance: SavingsAccount, CreditAccount extend BankAccount
+## 📌 Next Steps  
+- Add more real-world Python projects  
+- Explore **AI & machine learning basics**  
+- Improve code structure with **OOP & modular design**  
 
-Polymorphism: Different withdraw() rules per account type
+---
 
-Run:
-
-python bank_account_v2.py
-
-4. Rule-based Chatbot 🤖
-
-A simple AI agent that responds to user input using if-else rules.
-
-Greets & motivates
-
-Tells jokes 😂
-
-Talks about study & weather
-
-Solves math equations entered by the user
-
-Saves chat history to chat_history.txt
-
-Run:
-
-python rule_based_chatbot.py
-
-🛠 Tech & Topics
-
-Python 🐍
-
-OOP (Encapsulation, Abstraction, Inheritance, Polymorphism)
-
-File Handling
-
-CLI Applications
-
-Rule-based AI Agents
-
-👨‍💻 Author
-
-Sayeed Akhtar
+👨‍💻 Author: **Sayeed Akhtar**  
+🔗 GitHub Repo: [gradebook_analyzer](https://github.com/gsayeedakhtar-ops/gradebook_analyzer)  
