@@ -9,7 +9,8 @@ A growing collection of beginner-to-intermediate Python projects demonstrating *
 2. [Note-Taking App](#2-note-taking-app)  
 3. [Rule-Based Chatbot](#3-rule-based-chatbot)  
 4. [Bank Account Manager](#4-bank-account-manager)  
-5. [Expense Tracker](#5-expense-tracker)  
+5. [Expense Tracker](#5-expense-tracker)
+6. [Chatbot Memory](#6-chatbot-memory)  
 
 ---
 
