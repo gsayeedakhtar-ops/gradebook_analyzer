@@ -56,7 +56,20 @@ A growing collection of beginner-to-intermediate Python projects demonstrating *
 📂 `expense_tracker_v2.py`  
 - Add income & expenses with categories  
 - Shows **summary, transaction history, and category totals**  
-- Useful for **daily expense management**  
+- Useful for **daily expense management** 
+
+---
+
+### 6. Chatbot with Memory  
+📂 `chatbot_memory.py`, `chatbot_memory_v2.py`  
+
+- Extends the **Rule-Based Chatbot** by introducing **memory**  
+- Remembers previous user queries  
+- Stores conversations in `chat_history.txt`  
+- Demonstrates how AI agents can evolve from **stateless → stateful** systems  
+
+---
+ 
 
 ---
 
