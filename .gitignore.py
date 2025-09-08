@@ -1,0 +1,19 @@
+# Ignore text notes
+notes.txt
+
+# Ignore temporary or junk files
+avg]
+*.tmp
+*.log
+
+# Ignore Python cache/compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore test scripts (optional)
+test_script.py
+practice_notes.py
+*.txt
+# 📘 Gradebook Analyzer.md
+chat_history.txt
